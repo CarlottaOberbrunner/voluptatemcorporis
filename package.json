@@ -1,0 +1,53 @@
+{
+  "name": "voluptatemcorporis",
+  "version": "1.0.0",
+  "description": "A porting to TypeScript featuring fp-ts, io-ts, monocle-ts, rxjs5 and React",
+  "files": [
+    "lib",
+    "lib-jsnext"
+  ],
+  "main": "lib/index.js",
+  "jsnext:main": "lib-jsnext/index.js",
+  "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarlottaOberbrunner/voluptatemcorporis.git"
+  },
+  "author": "HunterMills",
+  "license": "MIT",
+  "homepage": "https://github.com/CarlottaOberbrunner/voluptatemcorporis.git",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "fp-ts": "^0.2.1",
+    "history": "^4.6.1",
+    "io-ts": "^0.3.0",
+    "monocle-ts": "^0.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "rxjs": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/history": "^4.5.0",
+    "@types/mocha": "^2.2.38",
+    "@types/node": "^7.0.4",
+    "@types/react": "^15.0.5",
+    "@types/react-dom": "^0.14.22",
+    "awesome-typescript-loader": "^3.1.2",
+    "mocha": "^3.2.0",
+    "ts-node": "^2.0.0",
+    "tslint": "^4.4.2",
+    "tslint-config-standard": "^4.0.0",
+    "typescript": "^2.2.0",
+    "webpack": "^1.14.0"
+  },
+  "tags": [
+    "typescript",
+    "elm",
+    "fp-ts"
+  ],
+  "keywords": [
+    "illum",
+    "harum",
+    "voluptatem"
+  ]
+}
